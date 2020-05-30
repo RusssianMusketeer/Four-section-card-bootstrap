@@ -1,0 +1,106 @@
+body {
+  background-color: #FAFAFA;
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+}
+
+p {
+  color: hsl(229, 6%, 66%);
+  line-height: 1.5;
+  font-size: 13px;
+}
+
+/* Title */
+.title-section {
+  text-align: center;
+  margin: 3rem 0 2rem 0;
+}
+
+.center-text {
+  margin: 1rem auto 0 auto;
+  width: 35%
+}
+
+/* Team-builder square */
+.team-builder {
+  width: 19rem;
+  height: 13rem;
+  padding: 2rem;
+  border-style: solid none none none;
+  border-width: thick;
+  border-color: hsl(0, 78%, 62%);
+  -webkit-box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  -moz-box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  margin: 1rem auto;
+}
+
+/* Supervisor square */
+.supervisor {
+  width: 19rem;
+  height: 13rem;
+  padding: 2rem;
+  border-style: solid none none none;
+  border-width: thick;
+  border-color: hsl(180, 62%, 55%);
+  -webkit-box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  -moz-box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  margin: auto;
+}
+
+/* Karma square */
+
+.karma {
+  width: 19rem;
+  height: 13rem;
+  padding: 2rem;
+  border-style: solid none none none;
+  border-width: thick;
+  border-color: hsl(34, 97%, 64%);
+  -webkit-box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  -moz-box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  margin: 1rem auto ;
+}
+
+/* Calculator square */
+
+.calculator {
+  width: 19rem;
+  height: 13rem;
+  padding: 2rem;
+  border-style: solid none none none;
+  border-width: thick;
+  border-color: hsl(212, 86%, 64%);
+  -webkit-box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  -moz-box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  box-shadow: 0px 0px 11px -1px rgba(65, 66, 73, 1);
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  margin: auto;
+
+}
+.col-lg-4 {
+  transition: all 1.5s linear;
+  -o-transition: all 1.5s linear;
+  -moz-transition: all 1.5s linear;
+  -webkit-transition: all 1.5s linear;
+}
+
+
+.icon-images {
+  position: relative;
+  left: 190px;
+  top: 5px;
+}
